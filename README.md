@@ -42,7 +42,7 @@ We reproduce and extend the original results on Navier-Stokes simulations and ev
 
 ---
 
-## 📊 Results
+## Results
 
 | Simulation Type     | Relative L2 Error |
 |---------------------|------------------|
