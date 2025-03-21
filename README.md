@@ -24,7 +24,7 @@ We reproduce and extend the original results on Navier-Stokes simulations and ev
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ### Simulation Types:
 - **Navier-Stokes**: Solved using a spectral solver with Crank-Nicholson time integration. Dataset consists of vorticity fields on a 32×32 grid.
