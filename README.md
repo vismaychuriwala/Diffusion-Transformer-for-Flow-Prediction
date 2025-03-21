@@ -59,5 +59,5 @@ We reproduce and extend the original results on Navier-Stokes simulations and ev
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your_username/difffluid-flow-sim.git
-cd difffluid-flow-sim
+git clone [https://github.com/vismaychuriwala/Diffusion-Transformer-for-Flow-Prediction.git]
+cd Diffusion-Transformer-for-Flow-Prediction
