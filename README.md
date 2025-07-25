@@ -1,6 +1,6 @@
 # DiffFluid: Predicting Flow Dynamics with Diffusion Models
 
-This repository contains our implementation of a diffusion-based transformer model for simulating fluid dynamics, inspired by the [DiffFluid paper (2024)](https://arxiv.org/abs/2409.13665).
+This repository contains our implementation of a diffusion-based transformer model for simulating fluid dynamics, inspired by the [DiffFluid paper (2024)](https://arxiv.org/abs/2409.13665). Our findings can be found [here](https://arxiv.org/abs/2507.08106)
 
 We reproduce and extend the original results on Navier-Stokes simulations and evaluate the model’s performance on the Lattice Boltzmann Method (LBM), demonstrating the versatility of denoising diffusion probabilistic models (DDPMs) as general-purpose solvers for flow dynamics.
 
